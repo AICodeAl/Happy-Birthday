@@ -1,7 +1,6 @@
 
     body{
         margin: 0;
-        background: hsl(0, 0%, 1%);
         cursor: pointer;
     }
     canvas{display: block}
@@ -11,8 +10,8 @@
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
-        font-size: 4em;
-        font-weight: 900;
+        font-size: 3.5em;
+        font-weight: 500;
         -webkit-user-select: none;
         user-select: none;
         text-align: center;
