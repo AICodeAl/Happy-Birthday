@@ -15,4 +15,6 @@
         font-weight: 900;
         -webkit-user-select: none;
         user-select: none;
+        text-align: center;
+        line-height: 1;
     }
